@@ -5,6 +5,7 @@ uv.lock
 .ruff_cache
 
 # Local server runtimes and models
+audioserver.log
 llama-server
 llama.cpp
 llama-liquid-audio*
